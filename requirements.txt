@@ -1,0 +1,6 @@
+ccxt
+starknet_py
+asyncio
+loguru
+web3
+aiohttp
